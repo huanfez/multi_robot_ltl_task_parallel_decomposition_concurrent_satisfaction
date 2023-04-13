@@ -123,4 +123,4 @@ ComptExperiment_centralized_Z4_Robot2.java
 (3) Perform the same operations in (1) and (2) for a different file (the above .java file) if expect to obtain the results for different situation
 
 **See more for the computatinal results in DEDS paper**
-![Table 3](https://gitlab.com/-/ide/project/i2r-research-group/smp/task-decomposition-and-allocation/automata_decomposition_allocation/tree/HZ/-/results/computational_results.png/)
+![Table 3](https://github.com/huanfez/multi_robot_ltl_task_parallel_decomposition_concurrent_satisfaction/blob/main/results/computational_results.png)
