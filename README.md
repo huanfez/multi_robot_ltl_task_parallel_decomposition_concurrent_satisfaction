@@ -1,4 +1,4 @@
-# Packages for Discrete Event Dynamic Systems (DEDS paper)
+# Packages for paper "Parallel decomposition and concurrent satisfaction for heterogeneous multi-robot task and motion planning under temporal logic specifications"
 
 DEDS experiment, which does not run real robots
 
