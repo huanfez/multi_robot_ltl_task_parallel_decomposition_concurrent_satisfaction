@@ -1,0 +1,3 @@
+
+javac -cp .:/media/hz/New_Volume/AutoRobots/automaton.jar xxx.java
+java -cp .:/media/hz/New_Volume/AutoRobots/automaton.jar xxx
