@@ -1,4 +1,4 @@
-# automata_decomposition_allocation
+# ltl_task_planning_for_multi_robot_system
 
 JAVA 8.0+
 
