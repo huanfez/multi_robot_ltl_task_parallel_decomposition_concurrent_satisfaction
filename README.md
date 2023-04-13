@@ -6,7 +6,7 @@ Python2
 JAVA 8.0+
 
 ***
-This project contains the task planning package (automaton-based) with JAVA; and motion planning package (Turtlebot3) with ROS. 
+This project contains the task planning package (automaton-based formal synthesis) with JAVA; and motion planning package (Turtlebot3) with ROS. 
 Each package has a folder, i.e., "task_planning_pkg" and "ros_pkgs". Each folder contains its own read me files. Please explore into each foler for the `readme.md` files.
 
 
