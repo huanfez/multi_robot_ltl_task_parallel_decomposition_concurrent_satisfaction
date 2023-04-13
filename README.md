@@ -1,4 +1,4 @@
-# Packages for paper "Parallel decomposition and concurrent satisfaction for heterogeneous multi-robot task and motion planning under temporal logic specifications"
+# Parallel decomposition and concurrent satisfaction for heterogeneous multi-robot task and motion planning under temporal logic specifications
 
 Ubuntu18.0 
 ROS Melodic 
