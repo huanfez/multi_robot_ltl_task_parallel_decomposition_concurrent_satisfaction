@@ -1,0 +1,11 @@
+digraph G {
+  ef2 [ label="[e, f],2" ];
+  gf0 [ label="[g, f],0" ];
+  eg1 [ label="[e, g],1" ];
+  bf3 [ label="[b, f],3" ];
+  ef3 [ label="[e, f],3" ];
+  ef2 -> gf0 [ label="e,[7]" ];
+  ef2 -> eg1 [ label="f,[8]" ];
+  gf0 -> bf3 [ label="g,[7]" ];
+  gf0 -> ef3 [ label="g,[7]" ];
+}

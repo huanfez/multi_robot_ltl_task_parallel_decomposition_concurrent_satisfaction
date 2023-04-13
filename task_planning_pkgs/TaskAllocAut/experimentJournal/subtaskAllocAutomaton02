@@ -1,0 +1,26 @@
+digraph G {
+  dc0 [ label="[d, c],0" ];
+  gc1 [ label="[g, c],1" ];
+  dg1 [ label="[d, g],1" ];
+  db1 [ label="[d, b],1" ];
+  ec1 [ label="[e, c],1" ];
+  ac2 [ label="[a, c],2" ];
+  dc2 [ label="[d, c],2" ];
+  df2 [ label="[d, f],2" ];
+  db2 [ label="[d, b],2" ];
+  de2 [ label="[d, e],2" ];
+  bc2 [ label="[b, c],2" ];
+  ec2 [ label="[e, c],2" ];
+  dc0 -> gc1 [ label="d,[6]" ];
+  dc0 -> dg1 [ label="c,[5]" ];
+  dc0 -> db1 [ label="c,[5]" ];
+  dc0 -> ec1 [ label="d,[6]" ];
+  gc1 -> ac2 [ label="g,[6]" ];
+  gc1 -> dc2 [ label="g,[6]" ];
+  gc1 -> bc2 [ label="g,[6]" ];
+  gc1 -> ec2 [ label="g,[6]" ];
+  dg1 -> dc2 [ label="g,[5]" ];
+  dg1 -> df2 [ label="g,[5]" ];
+  dg1 -> db2 [ label="g,[5]" ];
+  dg1 -> de2 [ label="g,[5]" ];
+}
